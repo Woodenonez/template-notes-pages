@@ -1,0 +1,9 @@
+baseurl: /note-XXXYYY
+url: https://woodenonez.github.io
+
+title: Notes on XXXYYY
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  math_engine: mathjax
